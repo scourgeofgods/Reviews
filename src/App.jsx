@@ -5,7 +5,7 @@ function App() {
   return (
     <main>
       <section className="reviews">
-        <div className="text-box">
+        <div className="sec">
           <h2 className="sec-title">Our Reviews</h2>
           <p className="sec-para">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum,

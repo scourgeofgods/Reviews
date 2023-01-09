@@ -33,7 +33,7 @@ body {
   align-items: center;
   text-align: center;
 }
-.text-box {
+.sec {
   display: flex;
   flex-direction: column;
   gap: 2rem;
