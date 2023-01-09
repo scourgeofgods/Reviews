@@ -103,6 +103,7 @@ body {
   border-radius: 999rem;
   cursor: pointer;
   color: #fff;
+  background-color: #242424;
   border: 1px solid #fff;
   transition: all 0.55s ease;
 }
